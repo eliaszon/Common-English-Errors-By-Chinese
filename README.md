@@ -111,7 +111,7 @@
 | 98   | 你看起来很辛苦     | you look so hard                  | you must be tired / you seem tired                           |                                                              |
 | 99   | 买菜               | Buy vegetables                    | Go grocery shopping / buy some groceries                     |                                                              |
 | 100  | 爬山               | climb mountains                   | hiking                                                       | climbing mountain 一般是指攀岩                               |
-
+| 101  | 技术栈/架构               | technology stack                  | architecture                                                       | 国人问用了什么技术/组件去开发项目,本身是问系统架构,老外面试更喜欢用architecture表达这个观点                               |
  
 
 ---
